@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "image": "https://example.com/spaghetti.jpg",
+    "description": "A classic Italian dish...",
+    "ingredients": ["Spaghetti", "Tomato Sauce", "Beef", "Garlic"],
+    "instructions": "Cook the spaghetti. Prepare the sauce. Combine and serve."
+  }
+]
